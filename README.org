@@ -29,7 +29,7 @@ All information in this section should be validated using the design files.
 - Case Screws (Top Case, 8x): M2.5*0.45 4.5mm
 - Top Mount Screws (Top Case, 9x): M2*0.4 3.5mm
 - Weight Screws (Bottom Case, 2x): M3*0.5 2.5mm
-- Daughterboard (Bottom Case, 4x): M2*0.4 2.0mm
+- Daughterboard Screws (Bottom Case, 4x): M2*0.4 2.0mm
 
 *** Differences from the prototype version
 Several modifications have been made from the prototype version:
