@@ -1,0 +1,51 @@
+#+startup: showall
+* Ijoken
+Classic Style Top Mounted 60% Custom Keyboard Case.
+
+** Specifications
+- Classic Style Seamed Two-Piece Case
+- Top Mount with Non-Flex Plate and 9 Mounting Points
+- 6.9° Typing Angle
+- 23.4mm Effective Keyboard Height
+- Compatible with H60 JST and UDB-C
+- Approx. 1.05kg Un-Built Weight (A6061 Cases, Brass Weight)
+- Approx. 1.35kg Fully Built Weight (A6061 Plate, GMK Keycaps)
+
+** Plate Support
+[[/img/plate-universal-kle.png]]
+
+[[/img/plate-universal-fusion.png]]
+
+** Production Information
+All information in this section should be validated using the design files.
+
+*** Fastening
+- Case Screws (8x): M2.5 8mm Socket
+- Top Mount Screws (9x): M2 5mm Flat Head
+- Weight Screws (2x): M3 6mm Countersunk
+- Daughterboard Screws (4x): M2 3mm Socket
+
+*** Threading
+- Case Screws (Top Case, 8x): M2.5*0.45 4.5mm
+- Top Mount Screws (Top Case, 9x): M2*0.4 3.5mm
+- Weight Screws (Bottom Case, 2x): M3*0.5 2.5mm
+- Daughterboard (Bottom Case, 4x): M2*0.4 2.0mm
+
+*** Differences from the prototype version
+Several modifications have been made from the prototype version:
+
+- Added WK/WKL top and universal plate.
+- Added supports for assembling the top and bottom cases.
+- Enlarged the JST channel just a little.
+
+*These changes have not been tested.*
+They should probably work fine, but use this work at your own risk.
+
+The prototype version files are included in the =prototype= directory,
+so you can use them as well if needed.
+
+** License
+This work is licensed under a [[https://creativecommons.org/licenses/by-nc-sa/4.0/][CC BY-NC-SA 4.0]].
+
+** Special Thanks to
+- The Pacifico Project Authors for [[https://github.com/googlefonts/Pacifico][Pacifico]] (used for weight engraving).
