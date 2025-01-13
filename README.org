@@ -2,6 +2,8 @@
 * Ijoken
 Classic Style Top Mounted 60% Custom Keyboard Case.
 
+[[/img/ijoken-prototype-topped-with-gmk-wob.png]]
+
 ** Specifications
 - Classic Style Seamed Two-Piece Case
 - Top Mount with Non-Flex Plate and 9 Mounting Points
